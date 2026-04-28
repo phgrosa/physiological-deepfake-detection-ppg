@@ -1,6 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (DO NOT COMMIT DATASETS)
 data/
-models/
-results/
-*.keras
+*.csv
 *.npz
+
+# Models
+models/
 *.h5
+*.keras
+*.pkl
+*.joblib
+
+# Results / outputs
+results/
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
