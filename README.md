@@ -9,3 +9,10 @@ This project implements multiple approaches for deepfake detection using:
 - SHAP-based explainability
 
 Dataset: CelebDF / FaceForensics++
+
+## 🔬 Contributions
+
+- Implementation of FakeCatcher-inspired CNN
+- Motion + physiological feature extraction pipeline
+- Bias-corrected hybrid ensemble improving F1 score
+- Robust SHAP analysis for model interpretability
